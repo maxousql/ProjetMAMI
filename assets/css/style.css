@@ -29,7 +29,7 @@ body{
     padding-top: 5%;
 }
 .main a{
-    color: black;
+    color: rgb(188, 74, 135);
     text-decoration: none;
     font-size: 16px;
     cursor:pointer;
@@ -40,7 +40,7 @@ body{
 .sidenav a {
     padding: 5%;
     text-decoration: none;
-    color: #818181;
+    color: #85697b;
     display: block;
     transition: 0.3s;
     font-size: 16px;
@@ -52,7 +52,7 @@ body{
 }
 
 .sidenav a:hover, .offcanvas a:focus{
-    color: #2c2b2b;
+    color: #a62362;
 }
 
 .sidenav .closebtn {
@@ -128,8 +128,8 @@ body {
 }*/
 .wow-button{
     padding: 16px 60px;
-    border: solid 1px black;
-    color: black;
+    border: solid 1px #f09bc4;
+    color: #a62362;
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -138,7 +138,7 @@ body {
     letter-spacing: 2px;
 }
 .wow-button:hover{
-    color: #ffffff;
+    color: #a62362;
     background-color: #2d2d2d;
     transition: .5s;
 }
@@ -156,7 +156,7 @@ body {
     padding-bottom: 60px;
 }
 .index-part-2,.index-part-4{
-    background-color: #f7f7f7;
+    background-color: #dabdcb;
 }
 hr{
     background-color: #c7c7c7; height: 1px; border: 0;
@@ -270,8 +270,8 @@ i{
 }
 
 .social a:hover{
-    color: #ffffff;
-    background-color: #2d2d2d;
+    color: #050202;
+    background-color: #a62362;
     transition: .5s;
 }
 .footer-p1,.footer-p2{
