@@ -29,11 +29,7 @@ body{
     padding-top: 5%;
 }
 .main a{
-<<<<<<< HEAD
     color: rgb(188, 74, 135);
-=======
-    color: black;
->>>>>>> 3b4711a574e94e1357edb4276a2e5c6b26799cfe
     text-decoration: none;
     font-size: 16px;
     cursor:pointer;
@@ -44,11 +40,7 @@ body{
 .sidenav a {
     padding: 5%;
     text-decoration: none;
-<<<<<<< HEAD
     color: #85697b;
-=======
-    color: #818181;
->>>>>>> 3b4711a574e94e1357edb4276a2e5c6b26799cfe
     display: block;
     transition: 0.3s;
     font-size: 16px;
@@ -60,11 +52,7 @@ body{
 }
 
 .sidenav a:hover, .offcanvas a:focus{
-<<<<<<< HEAD
     color: #a62362;
-=======
-    color: #2c2b2b;
->>>>>>> 3b4711a574e94e1357edb4276a2e5c6b26799cfe
 }
 
 .sidenav .closebtn {
@@ -140,13 +128,8 @@ body {
 }*/
 .wow-button{
     padding: 16px 60px;
-<<<<<<< HEAD
     border: solid 1px #f09bc4;
     color: #a62362;
-=======
-    border: solid 1px black;
-    color: black;
->>>>>>> 3b4711a574e94e1357edb4276a2e5c6b26799cfe
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -155,11 +138,7 @@ body {
     letter-spacing: 2px;
 }
 .wow-button:hover{
-<<<<<<< HEAD
     color: #a62362;
-=======
-    color: #ffffff;
->>>>>>> 3b4711a574e94e1357edb4276a2e5c6b26799cfe
     background-color: #2d2d2d;
     transition: .5s;
 }
@@ -177,11 +156,7 @@ body {
     padding-bottom: 60px;
 }
 .index-part-2,.index-part-4{
-<<<<<<< HEAD
     background-color: #dabdcb;
-=======
-    background-color: #f7f7f7;
->>>>>>> 3b4711a574e94e1357edb4276a2e5c6b26799cfe
 }
 hr{
     background-color: #c7c7c7; height: 1px; border: 0;
@@ -295,13 +270,8 @@ i{
 }
 
 .social a:hover{
-<<<<<<< HEAD
     color: #050202;
     background-color: #a62362;
-=======
-    color: #ffffff;
-    background-color: #2d2d2d;
->>>>>>> 3b4711a574e94e1357edb4276a2e5c6b26799cfe
     transition: .5s;
 }
 .footer-p1,.footer-p2{
